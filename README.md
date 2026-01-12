@@ -30,7 +30,7 @@
 - **IEEE Water Level Monitoring System (IoT)** &nbsp; ![Grant](https://img.shields.io/badge/%246%2C900_USD-Grant_Received-2ea44f?style=flat-square&logo=cashapp&logoColor=white)
   <br> _Project for Communities in Water Retention Area_
 
-- **International Global Capstone Design 2025 (GCDP)** &nbsp; ![Bronze](https://img.shields.io/badge/Bronze-UX%2FUI_Design_Award-CD7F32?style=flat-square)
+- **International Global Capstone Design 2025 (GCDP)** &nbsp; ![Bronze](https://img.shields.io/badge/Bronze-UX_Design_Award-CD7F32?style=flat-square)
   <br> _Bronze Award 2025 Future Mobility_
   
 - TPA Robot 2025 Robo Rescue
