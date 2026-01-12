@@ -13,7 +13,7 @@
       <img src="https://img.shields.io/badge/Email-naphatemong%40gmail.com-red?style=flat-square&logo=gmail&logoColor=white" />
     </a>
     <a href="https://drive.google.com/file/d/1bcVw25_cUAGUX2ij-bDsQ1PLUUJzBT_F/view?usp=sharing">
-      <img src="https://img.shields.io/badge/CV-View_My_Resume-00599C?style=flat-square&logo=google-drive&logoColor=white" />
+      <img src="https://img.shields.io/badge/CV-My_Resume-00599C?style=flat-square&logo=google-drive&logoColor=white" />
     </a>
   </p>
 </div>
@@ -24,6 +24,18 @@
 - 🔭 I’m currently building a **Water Level Monitoring & Warning System** (IoT Project).
 - 🌱 I’m currently exploring **Advanced Full-Stack Architecture & Cloud Computing**.
 - ⚡ I always enjoy learning new things to improve myself and apply them in the **future**.
+
+<h3 align="left">🚀 Experience & Awards</h3>
+
+- **IEEE Water Level Monitoring System (IoT)** &nbsp; ![Grant](https://img.shields.io/badge/%246%2C900_USD-Grant_Received-2ea44f?style=flat-square&logo=cashapp&logoColor=white)
+  <br> _Project for Communities in Water Retention Area_
+
+- **International Global Capstone Design 2025 (GCDP)** &nbsp; ![Bronze](https://img.shields.io/badge/Bronze-UX%2FUI_Design_Award-CD7F32?style=flat-square)
+  <br> _Bronze Award 2025 Future Mobility_
+  
+- TPA Robot 2025 Robo Rescue
+- Thailand Cyber Top Talent 2024
+- GISTDA School Satellite Competition 2024
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
