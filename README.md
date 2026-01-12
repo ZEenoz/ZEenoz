@@ -25,7 +25,7 @@
 - 🌱 I’m currently exploring **Advanced Full-Stack Architecture & Cloud Computing**.
 - ⚡ I always enjoy learning new things to improve myself and apply them in the **future**.
 
-<h3 align="left">🚀 Experience & Awards</h3>
+<h3 align="left">Experience & Awards</h3>
 
 - **IEEE Water Level Monitoring System (IoT)** &nbsp; ![Grant](https://img.shields.io/badge/%246%2C900_USD-Grant_Received-2ea44f?style=flat-square&logo=cashapp&logoColor=white)
   <br> _Project for Communities in Water Retention Area_
